@@ -1,7 +1,11 @@
-fastapi
-uvicorn
-tensorflow
+fastapi==0.121.2
+uvicorn==0.38.0
+
 numpy
-pandas
 scikit-learn
-pickle-mixin
+tensorflow
+h5py
+
+pydantic==2.12.4
+python-dotenv
+PyYAML
